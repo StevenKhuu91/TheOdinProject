@@ -18,3 +18,4 @@ For example,
     git status is read as git | status | (no destination).
 
 To go INTO folders, use: cd FILENAME
+To go back a folder, use: cd -
